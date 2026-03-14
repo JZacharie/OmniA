@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OmniA Wear</string>
+    <string name="hello_world">Bonjour Wear OS !</string>
+</resources>
